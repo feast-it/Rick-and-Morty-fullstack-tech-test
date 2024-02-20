@@ -29,7 +29,7 @@ Build a simple UI to list all characters using the basic wireframes provided. Th
 ### Taking things further:
 (Not a requirement but if you think it will help us assess your skill level and passion).  If you have the time, here are some suggestions to enhance the app:
 
-- Include Alive Morty characters (it is Rick and Morty at the end of the day - 😆)
+- Include Alive Rick characters (it is Rick and Morty at the end of the day - 😆)
 - Use path aliases
 - Introduce a build pipeline using Github CI / Circle CI or other CI tools.
 - Responsive images
